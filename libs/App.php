@@ -2,6 +2,8 @@
 
 <?php
 
+//crud function with database connectivity
+
 class App
 {
     public $host = HOST;
@@ -57,6 +59,7 @@ class App
             return false;
         }
     }
+    
 
     //insert function 
 
