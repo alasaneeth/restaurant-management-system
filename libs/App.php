@@ -2,7 +2,7 @@
 
 <?php
 
-//crud function with database connectivity
+//crud function and configure data base connectivity
 
 class App
 {
